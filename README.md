@@ -1,3 +1,6 @@
+#Credits
+This app is a part of great Angular course, created by Maximilian Schwarzmüller - https://www.udemy.com/angular-full-app-with-angular-material-angularfire-ngrx/ https://github.com/mschwarzmueller.
+
 # FitnessTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
